@@ -1,0 +1,10 @@
+C:\Users\Vlatko\Desktop\.Net\BarApplication\BarObjekti\bin\Debug\BarObjekti.dll
+C:\Users\Vlatko\Desktop\.Net\BarApplication\BarObjekti\bin\Debug\BarObjekti.pdb
+C:\Users\Vlatko\Desktop\.Net\BarApplication\BarObjekti\obj\Debug\BarObjekti.dll
+C:\Users\Vlatko\Desktop\.Net\BarApplication\BarObjekti\obj\Debug\BarObjekti.pdb
+C:\Users\Vlatko\Desktop\.Net\BarApplication\BarObjekti\obj\Debug\BarObjekti.csprojResolveAssemblyReference.cache
+C:\Users\Vlatko\Desktop\BarApplication\BarObjekti\bin\Debug\BarObjekti.dll
+C:\Users\Vlatko\Desktop\BarApplication\BarObjekti\bin\Debug\BarObjekti.pdb
+C:\Users\Vlatko\Desktop\BarApplication\BarObjekti\obj\Debug\BarObjekti.csprojResolveAssemblyReference.cache
+C:\Users\Vlatko\Desktop\BarApplication\BarObjekti\obj\Debug\BarObjekti.dll
+C:\Users\Vlatko\Desktop\BarApplication\BarObjekti\obj\Debug\BarObjekti.pdb
